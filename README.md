@@ -2,3 +2,7 @@
 A simple machine learning example that implements an art critic
 
 Used as an example application for the Barclays AI Frenzy event. Based on examples from Microsoft.
+
+Includes a slide deck that describes how the application works. 
+
+May one day be a motion picture. 
